@@ -1,7 +1,7 @@
 
-#📘 Eduweb – Educational Resource Platform
+# 📘 Eduweb – Educational Resource Platform
 
-![2024-01-02](https://github.com/Shreyapatil9530/eduweb.png)
+![Demo]("./eduweb.png")
 
 Eduweb is a responsive, full-featured educational platform designed to help students prepare for competitive exams such as JEE-Main, JEE-Advanced, GATE, and more. The platform offers notes, sample papers, video lectures, quizzes, interview preparation, and project ideas — all in one place.
 
